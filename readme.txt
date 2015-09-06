@@ -1,7 +1,7 @@
 === Mt8 Big Category CheckList ===
 Contributors: mt8.biz
 Donate link: http://mt8.biz
-Tags: sns,share,button
+Tags: admin,category,taxsonomy,check-lisy,ui
 Requires at least: 4.2
 Tested up to: 4.3
 Stable tag: 1.0.0
