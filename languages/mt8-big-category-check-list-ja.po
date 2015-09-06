@@ -1,0 +1,35 @@
+# Copyright (C) 2015 Mt8 Big Category Check List
+# This file is distributed under the same license as the Mt8 Big Category Check List package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mt8 Big Category Check List 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/mt8-big-category-"
+"check-list\n"
+"POT-Creation-Date: 2015-09-06 07:34:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-09-06 16:36+0900\n"
+"Last-Translator: mt8 <info@mt8.biz>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Mt8 Big Category Check List"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/mt8/mt8-big-category-check-list"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Big Category Check List On Post Pages."
+msgstr "大きなカテゴリーチェックリストを投稿画面に表示します。"
+
+#. Author of the plugin/theme
+msgid "mt8.biz"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mt8.biz"
+msgstr ""
